@@ -230,7 +230,6 @@ def main():
     Sara = Cashier("Sara", [Mexican])
     Yuki = Cashier("Yuki", [Japanese, Mexican])
 
-    print(BrokeAss)
 
     #Try all cases in the validate_order function
     #Below you need to have *each customer instance* try the four cases
